@@ -1,0 +1,5 @@
+Почты:
+admin@mail.ru
+moderator@mail.ru
+user@mail.ru
+Пароль - 123
